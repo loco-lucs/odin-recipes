@@ -1,0 +1,1 @@
+1. Up until this point I have learned the basis of HTML and Git. 
